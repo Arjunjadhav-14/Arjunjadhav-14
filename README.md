@@ -1,21 +1,138 @@
-# 💫 About Me:
-Data Science Student | Python | AI/ML | Building & Learning 🚀<br>
+<div align="center">
 
+# 👋 Hi, I'm Arjun Jadhav
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunjadhav14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ArjunJadha2273)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aj5427807@gmail.com) 
+### 📊 Data Science Student | Python Developer | AI/ML Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arjunjadhav-14&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Arjunjadhav-14&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjunjadhav-14&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>
+  <a href="https://github.com/Arjunjadhav-14">
+    <img src="https://img.shields.io/github/followers/Arjunjadhav-14?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/Arjunjadhav-14?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arjunjadhav-14&limit=5&theme=radical&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arjunjadhav-14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Data Science Student
+- 📊 Interested in Data Science, Artificial Intelligence & Machine Learning
+- 🐍 Building projects with Python and modern technologies
+- 🚀 Learning by building real-world applications
+- 💡 Interested in solving practical problems using technology
+- 🤝 Open to collaboration and new opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+</p>
+
+### 📊 Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Python • Data Analysis • Machine Learning • AI • Data Visualization**
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,oracle" />
+</p>
+
+**MongoDB • Firebase • Oracle**
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚖️ Smart-FIR
+
+A web-based project focused on creating a modern interface for FIR-related workflows.
+
+**Tech Stack:** React • Vite • JavaScript
+
+🔗 **[View Repository](https://github.com/Arjunjadhav-14/Smart-FIR)**
+
+---
+
+## 📜 Mr.Certi
+
+An e-certificate platform designed to simplify certificate generation and distribution.
+
+### ✨ Highlights
+
+- 📊 Organizer dashboard
+- 📁 CSV participant management
+- 🧾 Bulk certificate generation
+- 📧 Email notifications
+- 👤 Participant dashboard
+- 🔐 Firebase authentication
+- ☁️ Firebase Firestore & Storage
+- 📥 Certificate download
+
+**Tech Stack:** HTML • CSS • JavaScript • Firebase
+
+🔗 **[View Repository](https://github.com/Arjunjadhav-14/Mr.Certi)**
+
+---
+
+## 🌱 Smart-Agri
+
+A smart agriculture project built with a modern TypeScript-based stack and AI integration.
+
+**Tech Stack:** TypeScript • Vite • Gemini API
+
+🔗 **[View Repository](https://github.com/Arjunjadhav-14/Smart-Agri)**
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arjunjadhav-14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunjadhav-14&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunjadhav-14&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+🐍 Python
+📊 Data Science
+🤖 Machine Learning
+🧠 Artificial Intelligence
+📈 Data Analysis & Visualization
+🌐 Full-Stack Development
