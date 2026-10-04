@@ -11,6 +11,12 @@
   <a href="https://github.com/Arjunjadhav-14?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://www.linkedin.com/in/arjunjadhav14/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aj5427807@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -28,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -36,19 +42,37 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 </p>
 
-### 📊 Data Science & AI
+**Python • Java • C • C++ • JavaScript • TypeScript • SQL**
+
+### 📊 Data Science & Analytics
+
+**Data Analysis • Statistics • Probability • Data Visualization**
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Python • Data Analysis • Machine Learning • AI • Data Visualization**
+**NumPy • Pandas • Matplotlib • Seaborn**
+
+### 🤖 AI & Machine Learning
+
+**Machine Learning • Artificial Intelligence • Generative AI**
+
+**Scikit-learn • Gemini API**
+
+### 🧠 Core Computer Science
+
+**Data Structures & Algorithms • Object-Oriented Programming**
+
+**DBMS • SQL • Operating Systems • Computer Networks**
 
 ### 🌐 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
+
+**HTML • CSS • JavaScript • React • Vite**
 
 ### 🗄️ Database & Backend
 
@@ -63,6 +87,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
+
+**Git • GitHub • VS Code • Figma • Vercel**
 
 ---
 
