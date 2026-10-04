@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Arjun Jadhav
+# ARJUN JADHAV
 
-### 📊 Data Science Student | Python Developer | AI/ML Enthusiast
+### ◉ Data Science Student · ⌘ Python Developer · ◇ AI/ML Enthusiast
 
 <p>
   <a href="https://github.com/Arjunjadhav-14">
@@ -17,148 +17,152 @@
   <a href="mailto:aj5427807@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/arjun_jadhaw_07/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ◈ About Me
+
+I'm a **Data Science student** passionate about using data,
+programming and AI to build practical solutions.
 
 - 🎓 Data Science Student
-- 📊 Interested in Data Science, Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Science, AI & Machine Learning
 - 🐍 Building projects with Python and modern technologies
+- 💡 Exploring data-driven problem solving
 - 🚀 Learning by building real-world applications
-- 💡 Interested in solving practical problems using technology
 - 🤝 Open to collaboration and new opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## ◈ Technical Skills
 
-### 💻 Programming Languages
+### `01` — Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 </p>
 
-**Python • Java • C • C++ • JavaScript • TypeScript • SQL**
+`Python` · `Java` · `C` · `C++` · `JavaScript` · `TypeScript` · `SQL`
 
-### 📊 Data Science & Analytics
+---
 
-**Data Analysis • Statistics • Probability • Data Visualization**
+### `02` — Data Science & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+`Data Analysis` · `Statistics` · `Probability` · `Data Visualization`
 
-**NumPy • Pandas • Matplotlib • Seaborn**
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
 
-### 🤖 AI & Machine Learning
+---
 
-**Machine Learning • Artificial Intelligence • Generative AI**
+### `03` — Artificial Intelligence & Machine Learning
 
-**Scikit-learn • Gemini API**
+`Machine Learning` · `Artificial Intelligence` · `Generative AI`
 
-### 🧠 Core Computer Science
+`Scikit-learn` · `Gemini API`
 
-**Data Structures & Algorithms • Object-Oriented Programming**
+---
 
-**DBMS • SQL • Operating Systems • Computer Networks**
+### `04` — Core Computer Science
 
-### 🌐 Web Development
+`Data Structures & Algorithms`
+
+`Object-Oriented Programming` · `DBMS` · `SQL`
+
+`Operating Systems` · `Computer Networks`
+
+---
+
+### `05` — Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
-**HTML • CSS • JavaScript • React • Vite**
+`HTML` · `CSS` · `JavaScript` · `React` · `Vite`
 
-### 🗄️ Database & Backend
+---
+
+### `06` — Database & Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,oracle" />
 </p>
 
-**MongoDB • Firebase • Oracle**
+`MongoDB` · `Firebase` · `Oracle`
 
-### 🔧 Tools & Platforms
+---
+
+### `07` — Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
-**Git • GitHub • VS Code • Figma • Vercel**
+`Git` · `GitHub` · `VS Code` · `Figma` · `Vercel`
 
 ---
 
-# 🚀 Featured Projects
+# ◈ Featured Projects
 
 ## ⚖️ Smart-FIR
 
-A web-based project focused on creating a modern interface for FIR-related workflows.
+A web-based project focused on creating a modern interface
+for FIR-related workflows.
 
-**Tech Stack:** React • Vite • JavaScript
+**Stack:** `React` · `Vite` · `JavaScript`
 
-🔗 **[View Repository](https://github.com/Arjunjadhav-14/Smart-FIR)**
+→ **[View Repository](https://github.com/Arjunjadhav-14/Smart-FIR)**
 
 ---
 
 ## 📜 Mr.Certi
 
-An e-certificate platform designed to simplify certificate generation and distribution.
+An e-certificate platform designed to simplify certificate
+generation, distribution and management.
 
-### ✨ Highlights
+### Highlights
 
-- 📊 Organizer dashboard
-- 📁 CSV participant management
-- 🧾 Bulk certificate generation
-- 📧 Email notifications
-- 👤 Participant dashboard
-- 🔐 Firebase authentication
-- ☁️ Firebase Firestore & Storage
-- 📥 Certificate download
+- 📊 Organizer Dashboard
+- 📁 CSV Participant Management
+- 🧾 Bulk Certificate Generation
+- 📧 Email Notifications
+- 👤 Participant Dashboard
+- 🔐 Firebase Authentication
+- ☁️ Firestore & Firebase Storage
+- 📥 Certificate Download
 
-**Tech Stack:** HTML • CSS • JavaScript • Firebase
+**Stack:** `HTML` · `CSS` · `JavaScript` · `Firebase`
 
-🔗 **[View Repository](https://github.com/Arjunjadhav-14/Mr.Certi)**
+→ **[View Repository](https://github.com/Arjunjadhav-14/Mr.Certi)**
 
 ---
 
 ## 🌱 Smart-Agri
 
-A smart agriculture project built with a modern TypeScript-based stack and AI integration.
+A smart agriculture project built with a modern TypeScript
+stack and AI integration.
 
-**Tech Stack:** TypeScript • Vite • Gemini API
+**Stack:** `TypeScript` · `Vite` · `Gemini API`
 
-🔗 **[View Repository](https://github.com/Arjunjadhav-14/Smart-Agri)**
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunjadhav-14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunjadhav-14&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunjadhav-14&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+→ **[View Repository](https://github.com/Arjunjadhav-14/Smart-Agri)**
 
 ---
 
-# 📚 Currently Learning
+# ◈ Currently Exploring
 
 ```text
-🐍 Python
-📊 Data Science
-🤖 Machine Learning
-🧠 Artificial Intelligence
-📈 Data Analysis & Visualization
-🌐 Full-Stack Development
+Data Science
+     ↓
+Data Analysis
+     ↓
+Machine Learning
+     ↓
+Artificial Intelligence
+     ↓
+Real-World Applications
