@@ -27,7 +27,7 @@
 
 - 🎓 Data Science Student
 - 📊 Interested in Data Science, Artificial Intelligence & Machine Learning
-- 🐍 Building projects with Python and modern technologies
+- 🐍 Building projects with modern technologies
 - 🚀 Learning by building real-world applications
 - 💡 Interested in solving practical problems using technology
 - 🤝 Open to collaboration and new opportunities
