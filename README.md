@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Arjun Jadhav
@@ -20,6 +19,7 @@
   </a>
 </p>
 
+<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arjunjadhav-14&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -128,7 +128,7 @@ A smart agriculture project built with a modern TypeScript-based stack and AI in
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunjadhav-14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Arjunjadhav-14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -147,4 +147,3 @@ A smart agriculture project built with a modern TypeScript-based stack and AI in
 🧠 Artificial Intelligence
 📈 Data Analysis & Visualization
 🌐 Full-Stack Development
-```
