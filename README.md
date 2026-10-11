@@ -1,149 +1,146 @@
-<div align="center">
+\<div align="center">
 
-# 👋 Hi, I'm Arjun Jadhav
+\# 👋 Hi, I'm Arjun Jadhav
 
-### 📊 Data Science Student | Python Developer | AI/ML Enthusiast
+\### 📊 Data Science Student | Python Developer | AI/ML Enthusiast
 
-<p>
-  <a href="https://github.com/Arjunjadhav-14">
-    <img src="https://img.shields.io/github/followers/Arjunjadhav-14?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Arjunjadhav-14?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github" alt="Projects"/>
-  </a>
-  <a href="mailto:aj5427807@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/arjun_jadhaw_07/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+\<p> 
+  \<a href="[https://github.com/Arjunjadhav-14](https://github.com/Arjunjadhav-14)">
+    \<img src="[https://img.shields.io/github/followers/Arjunjadhav-14?style=for-the-badge&logo=github&label=Followers](https://img.shields.io/github/followers/Arjunjadhav-14?style=for-the-badge\&logo=github\&label=Followers)"/>
+  \</a>
+  \<a href="[https://github.com/Arjunjadhav-14?tab=repositories](https://github.com/Arjunjadhav-14?tab=repositories)">
+    \<img src="[https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Projects-Explore-blue?style=for-the-badge\&logo=github)"/>
+  \</a>
+  \<a href="mailto\:aj5427807\@gmail.com">
+    \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+  \</a>
+  \<a href="[https://www.instagram.com/arjun_jadhaw_07/](https://www.instagram.com/arjun_jadhaw_07/)">
+    \<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>
+  \</a>
+\</p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjunjadhav-14&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
-</p>
+\</div>
 
-</div>
+\---
 
----
+\## 👨‍💻 About Me
 
-## 👨‍💻 About Me
+\- 🎓 Data Science Student
+\- 📊 Interested in Data Science, Artificial Intelligence & Machine Learning
+\- 🐍 Building projects with modern technologies
+\- 🚀 Learning by building real-world applications
+\- 💡 Interested in solving practical problems using technology
+\- 🤝 Open to collaboration and new opportunities
 
-- 🎓 Data Science Student
-- 📊 Interested in Data Science, Artificial Intelligence & Machine Learning
-- 🐍 Building projects with modern technologies
-- 🚀 Learning by building real-world applications
-- 💡 Interested in solving practical problems using technology
-- 🤝 Open to collaboration and new opportunities
+\---
 
----
+\## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+\### 💻 Programming Languages
 
-### 💻 Programming Languages
+\<p>
+\<img src="[https://skillicons.dev/icons?i=python,java,cpp,c,js,ts](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts)" />
+\</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
-</p>
+\### 📊 Data Science & AI
 
-### 📊 Data Science & AI
+\<p>
+\<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" />
+\</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
+\*\*Python • Data Analysis • Machine Learning • AI • Data Visualization\*\*
 
-**Python • Data Analysis • Machine Learning • AI • Data Visualization**
+\### 🌐 Web Development
 
-### 🌐 Web Development
+\<p>
+\<img src="[https://skillicons.dev/icons?i=html,css,js,react,vite](https://skillicons.dev/icons?i=html,css,js,react,vite)" />
+\</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Web Development"/>
-</p>
+\### 🗄️ Database & Backend
 
-### 🗄️ Database & Backend
+\<p>
+\<img src="[https://skillicons.dev/icons?i=mongodb,firebase,oracle](https://skillicons.dev/icons?i=mongodb,firebase,oracle)" />
+\</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,oracle" alt="Database & Backend"/>
-</p>
+\*\*MongoDB • Firebase • Oracle\*\*
 
-**MongoDB • Firebase • Oracle**
+\### 🔧 Tools & Platforms
 
-### 🔧 Tools & Platforms
+\<p>
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,figma,vercel](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)" />
+\</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Tools & Platforms"/>
-</p>
+\---
 
----
+\# 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-## ⚖️ Smart-FIR
+\## ⚖️ Smart-FIR
 
 A web-based project focused on creating a modern interface for FIR-related workflows.
 
-**Tech Stack:** React • Vite • JavaScript
+\*\*Tech Stack:\*\* React • Vite • JavaScript
 
-🔗 **[View Repository](https://github.com/Arjunjadhav-14/Smart-FIR)**
+🔗 \*\*[View Repository]\([https://github.com/Arjunjadhav-14/Smart-FIR)\*\*](https://github.com/Arjunjadhav-14/Smart-FIR\)**)
 
----
+\---
 
-## 📜 Mr.Certi
+\## 📜 Mr.Certi
 
 An e-certificate platform designed to simplify certificate generation and distribution.
 
-### ✨ Highlights
+\### ✨ Highlights
 
-- 📊 Organizer dashboard
-- 📁 CSV participant management
-- 🧾 Bulk certificate generation
-- 📧 Email notifications
-- 👤 Participant dashboard
-- 🔐 Firebase authentication
-- ☁️ Firebase Firestore & Storage
-- 📥 Certificate download
+\- 📊 Organizer dashboard
+\- 📁 CSV participant management
+\- 🧾 Bulk certificate generation
+\- 📧 Email notifications
+\- 👤 Participant dashboard
+\- 🔐 Firebase authentication
+\- ☁️ Firebase Firestore & Storage
+\- 📥 Certificate download
 
-**Tech Stack:** HTML • CSS • JavaScript • Firebase
+\*\*Tech Stack:\*\* HTML • CSS • JavaScript • Firebase
 
-🔗 **[View Repository](https://github.com/Arjunjadhav-14/Mr.Certi)**
+🔗 \*\*[View Repository]\([https://github.com/Arjunjadhav-14/Mr.Certi)\*\*](https://github.com/Arjunjadhav-14/Mr.Certi\)**)
 
----
+\---
 
-## 🌱 Smart-Agri
+\## 🌱 Smart-Agri
 
 A smart agriculture project built with a modern TypeScript-based stack and AI integration.
 
-**Tech Stack:** TypeScript • Vite • Gemini API
+\*\*Tech Stack:\*\* TypeScript • Vite • Gemini API
 
-🔗 **[View Repository](https://github.com/Arjunjadhav-14/Smart-Agri)**
+🔗 \*\*[View Repository]\([https://github.com/Arjunjadhav-14/Smart-Agri)\*\*](https://github.com/Arjunjadhav-14/Smart-Agri\)**)
 
----
+\---
 
-# 📈 GitHub Analytics
+\# 📈 GitHub Analytics
 
-<div align="center">
+\<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunjadhav-14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+\<img src="[https://github-readme-stats.vercel.app/api?username=Arjunjadhav-14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Arjunjadhav-14\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
 
-<br/><br/>
+\<br/>\<br/>
 
-<img src="https://streak-stats.demolab.com/?user=Arjunjadhav-14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Arjunjadhav-14&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Arjunjadhav-14\&theme=tokyonight\&hide_border=true)" />
 
-<br/><br/>
+\<br/>\<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunjadhav-14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunjadhav-14&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunjadhav-14\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 
-</div>
+\</div>
 
----
+\---
 
-# 📚 Currently Learning
+\# 📚 Currently Learning
 
-```text
+\`\`\`text
 🐍 Python
 📊 Data Science
 🤖 Machine Learning
 🧠 Artificial Intelligence
 📈 Data Analysis & Visualization
 🌐 Full-Stack Development
+
+
