@@ -20,8 +20,8 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Arjunjadhav-14&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arjunjadhav-14&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 </div>
@@ -44,13 +44,13 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
 </p>
 
 ### 📊 Data Science & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 **Python • Data Analysis • Machine Learning • AI • Data Visualization**
@@ -58,13 +58,13 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Web Development"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Web Development"/>
 </p>
 
 ### 🗄️ Database & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,oracle" alt="Database and Backend"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,oracle" alt="Database & Backend"/>
 </p>
 
 **MongoDB • Firebase • Oracle**
@@ -72,7 +72,7 @@
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Tools & Platforms"/>
 </p>
 
 ---
